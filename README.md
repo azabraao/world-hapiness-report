@@ -12,4 +12,4 @@ Geovanne Amorim Coelho - Rm82578\
 Iago Monteiro Garcia - RM82448
 
 ## Start it with Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azabraao/world-hapiness-report/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/azabraao/world-happiness-report/master)
